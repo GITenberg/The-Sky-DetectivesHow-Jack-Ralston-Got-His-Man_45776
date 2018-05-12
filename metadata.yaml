@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35220'
     url: http://www.gutenberg.org/2009/agents/35220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45776#The-Sky-DetectivesHow-Jack-Ralston-Got-His-Man
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
